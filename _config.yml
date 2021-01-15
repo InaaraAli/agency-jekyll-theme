@@ -8,39 +8,8 @@ description: "Hello world! My name is Inaara Ali, and I am a junior at Emory Uni
 
 
 # Team names, titles and social links
-people:
-- name: 
-  pic: 
-  position: 
-  social:
-    - title: 
-      url: 
-    - title: 
-      url: 
-    - title: 
-      url: 
 
-- name: 
-  pic: 2
-  position: 
-  social:
-    - title: 
-      url: 
-    - title: 
-      url: 
-    - title: 
-      url:
 
-- name: 
-  pic: 3
-  position: 
-  social:
-    - title: 
-      url: #
-    - title:
-      url: #
-    - title: 
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
