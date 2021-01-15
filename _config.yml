@@ -2,63 +2,57 @@ url: https://inaaraali.github.io
 baseurl: 
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Inaara Ali
+email: inaara.a.ali@gmail.com
+description: "Hello world! My name is Inaara Ali, and I am a junior at Emory University majoring in Data Science (QSS), with a concentration in Anthropology and a double major in International Studies. A life-long creative writer, I have a passion for storytelling and have applied my creativity towards the captivating world of data science. Enthusiastic in sharing stories about data, I extract and communicate meaningful insight from data to bring positive impact. Currently, I am seeking a data science intern position for summer of 2021."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: 
+  pic: 
+  position: 
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: 
+      url: 
+    - title: 
+      url: 
+    - title: 
+      url: 
 
-- name: Larry Parker
+- name: 
   pic: 2
-  position: Lead Marketer
+  position: 
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    - title: 
+      url: 
+    - title: 
+      url: 
+    - title: 
+      url:
 
-- name: Diana Petersen
+- name: 
   pic: 3
-  position: Lead Developer
+  position: 
   social:
-    - title: twitter
+    - title: 
       url: #
-    - title: facebook
+    - title:
       url: #
-    - title: google-plus
+    - title: 
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/inaara-ali-160b5b1a0/ 
+  - title: Github
+    url: https://github.com/InaaraAli 
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 201 Dowman Dr
+  - line: Atlanta, GA 30322 
 
 # Build settings
 markdown: kramdown
