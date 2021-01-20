@@ -1,8 +1,8 @@
 ---
-title: Predictive Power of COVID-19 in the Presidential Election 
-subtitle: Shiny web application 
+title: Predictive Power of COVID-19 in the Presidential Election
+subtitle: Shiny web application
 layout: default
-modal-id: 1
+modal-id: "1"
 date: 2020-11-18
 img: dreams.png
 thumbnail: dreams-thumbnail.png
@@ -10,5 +10,7 @@ alt: image-alt
 project-date: Nov. - Dec. 2020
 client: Start Bootstrap
 category: Web Development
-description: Follow this link to see my team's completed Shiny web application.
+description: 'Follow this link to see my team''s completed Shiny web application:
+  https://seeunkim.shinyapps.io/finalshiny/ '
+
 ---
