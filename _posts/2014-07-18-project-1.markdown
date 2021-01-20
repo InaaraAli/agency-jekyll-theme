@@ -8,7 +8,7 @@ img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: Nov. - Dec. 2020
-client: Start Bootstrappp
+client: Start Bootstrapppp
 category: []
 description: 'Follow this link to see my team''s completed Shiny web application:
   https://seeunkim.shinyapps.io/finalshiny/ '
