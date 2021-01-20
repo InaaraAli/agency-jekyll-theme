@@ -10,7 +10,6 @@ alt: image-alt
 project-date: Nov. - Dec. 2020
 client: Link to project (Shiny web app)
 category: []
-description: 'Follow this link to see my team''s completed Shiny web application:
-  https://seeunkim.shinyapps.io/finalshiny/ '
+description: 'Visit this link to see my team''s completed Shiny web application: https://seeunkim.shinyapps.io/finalshiny/ '
 
 ---
