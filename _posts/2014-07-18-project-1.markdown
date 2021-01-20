@@ -8,8 +8,7 @@ img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: Nov. - Dec. 2020
-team members: Inaara Ali, Se Eun Kim, Dylan Douglas-Brown, Neisa Yin, Bo Lee
-
-category: data visualization 
-description: Follow this link to see my team's completed Shiny web application: https://seeunkim.shinyapps.io/finalshiny/  
+client: Start Bootstrap
+category: Web Development
+description: Follow this link to see my team's completed Shiny web application.
 ---
