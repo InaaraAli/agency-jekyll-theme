@@ -14,3 +14,4 @@ description: 'Follow this link to see my team''s completed Shiny web application
   https://seeunkim.shinyapps.io/finalshiny/ '
 
 ---
+* First, we joined the coronavirus data set from the CDC with the election results data set from the NY Times
