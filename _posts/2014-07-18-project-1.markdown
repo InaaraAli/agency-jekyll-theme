@@ -12,6 +12,18 @@ project-date: Nov. - Dec. 2020
 client: <a target="_blank" rel="noopener noreferrer" href="https://seeunkim.shinyapps.io/finalshiny/">See
   project (Shiny web app)</a>
 category: []
-description: 'Visit this link to see my team''s completed Shiny web application: https://seeunkim.shinyapps.io/finalshiny/ '
+description: "<h4>About</h4><p>This project examines the relationship between COVID-19
+  case rates and the United States’ election outcomes from 2016 and 2020 at the state
+  level. The goal was to discover unique insights among political group victory (Democrat
+  and Republican) and COVID-19 cases. \n</p><h4>Data sources</h4><p>Given the CDC's
+  important role during the COVID-19 pandemic, we were interested in using CDC's data
+  for our project. We used the data set’s variables of states, case rates per 100
+  thousand people, and total number of cases as of November 11th 2020. Since 2020
+  was also the year of the general election, we wanted to explore the relationship
+  between voting patterns and COVID-19 prevalence in states. Therefore, we created
+  an additional dataset using data from the New York Times dated on November 11th
+  that detailed voting percentages across party lines for the 2020 presidential election.
+  We also used an external dataset that contained voting percentages for Democrats
+  and Republicans in the 2016 presidential election. \n</p>"
 
 ---
