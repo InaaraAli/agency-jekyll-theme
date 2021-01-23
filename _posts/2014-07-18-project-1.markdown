@@ -1,6 +1,7 @@
 ---
 title: Predictive Power of COVID-19 in the Presidential Election
-subtitle: Shiny web application
+subtitle: <a target="_blank" rel="noopener noreferrer" href="https://seeunkim.shinyapps.io/finalshiny/">Shiny
+  web application</a>
 layout: default
 modal-id: "1"
 date: 2020-11-18
