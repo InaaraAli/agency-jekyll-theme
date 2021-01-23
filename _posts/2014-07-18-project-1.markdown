@@ -9,8 +9,8 @@ img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: Nov. - Dec. 2020
-client: <a target="_blank" rel="noopener noreferrer" href="https://seeunkim.shinyapps.io/finalshiny/">Link
-  to project (Shiny web app)</a>
+client: <a target="_blank" rel="noopener noreferrer" href="https://seeunkim.shinyapps.io/finalshiny/">See
+  project (Shiny web app)</a>
 category: []
 description: 'Visit this link to see my team''s completed Shiny web application: https://seeunkim.shinyapps.io/finalshiny/ '
 
