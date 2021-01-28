@@ -16,7 +16,8 @@ client: <a target="_blank" rel="noopener noreferrer" href="https://drive.google.
   download="Research poster">Research poster</a> <a target="_blank" rel="noopener
   noreferrer" href="https://drive.google.com/file/d/1SjfmRqnbXXeSrBp7IYQbwx1xrIyDPnDr/view?usp=sharing"
   download="Research paper">Research paper</a>
-category: []
+category:
+- 'Inaara Ali (Me) & Emilia Liu '
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo
   novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo
   diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
