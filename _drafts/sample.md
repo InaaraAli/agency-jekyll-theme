@@ -9,7 +9,7 @@ thumbnail: ''
 alt: ''
 project-date: ''
 client: 'link '
-category: me
+category: 'Inaara Ali (Me)  '
 description: a project by
 
 ---
