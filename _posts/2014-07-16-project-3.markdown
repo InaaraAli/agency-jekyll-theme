@@ -8,11 +8,11 @@ date: 2014-07-16
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo
-  novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo
-  diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: Oct. 2019
+client: '<a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/presentation/d/1E8TpzwORK9eYk77Vx2On0DY7LHoriMYMDQtAU1tyNiA/edit?usp=sharing">Emory
+  HackATL business competition entry</a>                                '
+category:
+- Inaara Ali (Me), Vedika Jhunjhunwala, Tanvi Talwar, Richard O
+description: ''
 
 ---
