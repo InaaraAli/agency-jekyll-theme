@@ -38,5 +38,3 @@ fields:
 - type: textarea
   name: description
   label: description
-pages:
-- _posts/2021-01-28-sample.md
