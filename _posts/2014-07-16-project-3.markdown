@@ -1,6 +1,7 @@
 ---
 title: Descorn
-subtitle: 'Emory HackATL business competition entry                                 '
+subtitle: '<a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/presentation/d/1E8TpzwORK9eYk77Vx2On0DY7LHoriMYMDQtAU1tyNiA/edit?usp=sharing">Emory
+  HackATL business competition entry</a>                                '
 layout: default
 modal-id: "3"
 date: 2014-07-16
