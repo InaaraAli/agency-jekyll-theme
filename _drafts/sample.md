@@ -7,7 +7,7 @@ date:
 img: ''
 thumbnail: ''
 alt: ''
-project-date: ''
+project-date: Oct. 2019
 client: 'link '
 category: 'Inaara Ali (Me)  '
 description: a project by
