@@ -1,6 +1,6 @@
 ---
 title: Descorn
-subtitle: 'Emory HackATL business competition                                 '
+subtitle: 'Emory HackATL business competition entry                                 '
 layout: default
 modal-id: "3"
 date: 2014-07-16
