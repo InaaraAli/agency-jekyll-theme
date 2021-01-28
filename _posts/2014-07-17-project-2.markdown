@@ -2,8 +2,8 @@
 title: How Government Spending on Education Affects School Enrollment and Academic
   Performance
 subtitle: <a target="_blank" rel="noopener noreferrer" href="C:\Users\Inaara Ali\OneDrive
-  - Emory University\Documents\QTM Final Poster by Inaara Ali & Emilia Liu.pdf">Research
-  poster</a>
+  - Emory University\Documents\QTM Final Poster by Inaara Ali & Emilia Liu.pdf" download="Research
+  poster">Research poster</a>
 layout: default
 modal-id: "2"
 date: 2014-07-17
