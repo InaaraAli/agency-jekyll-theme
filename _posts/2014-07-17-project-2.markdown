@@ -18,8 +18,22 @@ client: <a target="_blank" rel="noopener noreferrer" href="https://drive.google.
   download="Research paper">Research paper</a>
 category:
 - 'Inaara Ali (Me) & Emilia Liu '
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo
-  novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo
-  diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: |
+  <h4>Pending publication</h4> <div style="text-align:left"><b>Ali, I.</b> & Liu, E. (in press). How Government Spending on Education Affects School Enrollment and Academic Performance. Emory Undergraduate Research Journal.</div>
+
+  <h4>Abstract</h4> <div style="text-align:left"><p>
+
+  Countries’ government spending on education differs in various percentages of their GDPs, and
+  affects students variously. But, we don’t have an explicit model for relating government
+  spending on education to school enrollment and academic performance. Therefore, we are
+  analyzing primary, secondary, and tertiary school enrollment levels as well as academic
+  performance from the 2018 PISA test scores and rankings across varying levels of government
+  spending on education among the ten highest-GDP producing economies of the world. We found
+  that government spending per student, as well as the rate of enrollment, is greater for tertiary and
+  secondary levels than the primary level, and that greater government spending does not translate into better academic performance.</p></div>
+
+  <br><div style="text-align:left"><p><b>Keywords: Government spending; GDP; education; school enrollment; academic performance</b></p></div>
+
+  <h4>Authors</h4> <div style="text-align:left"><b>Inaara Ali (me)</b> & Emilia Liu</div>
 
 ---
