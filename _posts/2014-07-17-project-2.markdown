@@ -19,7 +19,7 @@ client: <a target="_blank" rel="noopener noreferrer" href="https://drive.google.
 category:
 - 'Inaara Ali (Me) & Emilia Liu '
 description: |
-  <h4>Pending publication</h4> <div style="text-align:left"><b>Ali, I.</b> & Liu, E. (in press). How Government Spending on Education Affects School Enrollment and Academic Performance. <i>Emory Undergraduate Research Journal.</i></div>
+  <h4>Pending publication</h4> <div style="text-align:left"><p><b>Ali, I.</b> & Liu, E. (in press). How Government Spending on Education Affects School Enrollment and Academic Performance. <i>Emory Undergraduate Research Journal.</i></p></div>
 
   <h4>Abstract</h4> <div style="text-align:left"><p>
 
