@@ -32,7 +32,7 @@ description: |
   that government spending per student, as well as the rate of enrollment, is greater for tertiary and
   secondary levels than the primary level, and that greater government spending does not translate into better academic performance.</p></div>
 
-  <br><div style="text-align:left"><p><b>Keywords: Government spending; GDP; education; school enrollment; academic performance</b></p></div>
+  <br><div style="text-align:left"><p><b>Keywords:</b> Government spending; GDP; education; school enrollment; academic performance</p></div>
 
   <h4>Authors</h4> <div style="text-align:center"><b>Inaara Ali (me)</b> & Emilia Liu</div>
 
