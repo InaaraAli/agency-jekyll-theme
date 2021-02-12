@@ -5,8 +5,8 @@ subtitle: <a target="_blank" rel="noopener noreferrer" href="https://seeunkim.sh
 layout: default
 modal-id: "1"
 date: 2020-11-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: usa.jpg
+thumbnail: usa-4964392_1920.jpg
 alt: image-alt
 project-date: Nov. - Dec. 2020
 client: <a target="_blank" rel="noopener noreferrer" href="https://seeunkim.shinyapps.io/finalshiny/">See
