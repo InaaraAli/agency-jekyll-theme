@@ -8,8 +8,8 @@ subtitle: <a target="_blank" rel="noopener noreferrer" href="https://drive.googl
 layout: default
 modal-id: "2"
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: cost-5906401_1920.jpg
+thumbnail: cost-5906401_1920.jpg
 alt: image-alt
 project-date: Jul. 2020 – Aug. 2020
 client: <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1ddoQF_ShzWfSbWVB-XKJc5srBLEWaewJ/view?usp=sharing"
