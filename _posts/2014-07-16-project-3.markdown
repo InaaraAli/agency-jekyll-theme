@@ -5,8 +5,8 @@ subtitle: '<a target="_blank" rel="noopener noreferrer" href="https://docs.googl
 layout: default
 modal-id: "3"
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: vegetable-2489368_1920.png
+thumbnail: vegetable-2489368_1920.png
 alt: image-alt
 project-date: Oct. 2019
 client: '<a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/presentation/d/1E8TpzwORK9eYk77Vx2On0DY7LHoriMYMDQtAU1tyNiA/edit?usp=sharing">Emory
