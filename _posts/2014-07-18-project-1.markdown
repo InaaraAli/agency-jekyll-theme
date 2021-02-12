@@ -5,7 +5,7 @@ subtitle: <a target="_blank" rel="noopener noreferrer" href="https://seeunkim.sh
 layout: default
 modal-id: "1"
 date: 2020-11-18
-img: usa.jpg
+img: usa-4964392_1920.jpg
 thumbnail: usa-4964392_1920.jpg
 alt: image-alt
 project-date: Nov. - Dec. 2020
