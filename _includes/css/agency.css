@@ -270,13 +270,13 @@ header {
     color: #fff;
     padding: 50 0 50;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/background-3228704_1920.jpg');
+    background-image: url('{{ site.baseurl }}/img/background-3228704_640.jpg');
     background-position: center center;
     background-repeat: none;
-    -webkit-background-size: contain;
-    -moz-background-size: contain;
-    background-size: contain;
-    -o-background-size: contain;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }
 
 header .intro-text {
