@@ -270,10 +270,7 @@ header {
     color: #fff;
     padding: 50 0 50;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/imageedit_17_7017563912.jpg'), 
-      linear-gradient(
-        rgba(0, 0, 0, 0.6),
-        rgba(0, 0, 0, 0.6));
+    background-image: url('{{ site.baseurl }}/img/imageedit_17_7017563912.jpg'); 
     background-position: center center;
     background-repeat: none;
     background-size: cover;
