@@ -1,10 +1,10 @@
 ---
 title: How Government Spending on Education Affects School Enrollment and Academic
   Performance
-subtitle: <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1ddoQF_ShzWfSbWVB-XKJc5srBLEWaewJ/view?usp=sharing"
+subtitle: <b><a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1ddoQF_ShzWfSbWVB-XKJc5srBLEWaewJ/view?usp=sharing"
   download="Research poster">Research poster</a> & <a target="_blank" rel="noopener
   noreferrer" href="https://drive.google.com/file/d/1SjfmRqnbXXeSrBp7IYQbwx1xrIyDPnDr/view?usp=sharing"
-  download="Research paper">Research paper</a>
+  download="Research paper">Research paper</a></b>
 layout: default
 modal-id: "2"
 date: 2014-07-17
