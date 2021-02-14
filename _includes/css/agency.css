@@ -273,10 +273,10 @@ header {
     background-image: url('{{ site.baseurl }}/img/background-3228704_1920.jpg');
     background-position: center center;
     background-repeat: none;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
     background-size: contain;
-    -o-background-size: cover;
+    -o-background-size: contain;
 }
 
 header .intro-text {
