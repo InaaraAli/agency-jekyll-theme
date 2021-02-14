@@ -14,9 +14,10 @@ description: "Hello world! My name is Inaara Ali, and I am a junior at Emory Uni
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: linkedin.com/in/inaaraali
+    url: https://www.linkedin.com/in/inaaraali/ 
   - title: github
     url: https://github.com/InaaraAli 
+    
 
 # Postal address (add as many lines as necessary)
 address:
