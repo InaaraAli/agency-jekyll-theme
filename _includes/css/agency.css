@@ -270,7 +270,7 @@ header {
     color: #fff;
     padding: 50 0 50;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/background-3228704_640.jpg');
+    background-image: url('{{ site.baseurl }}/img/background-3228704_1920.jpg');
     background-position: center center;
     background-repeat: none;
     background-size: cover;
